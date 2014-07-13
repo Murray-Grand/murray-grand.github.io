@@ -13,3 +13,7 @@ a {
 a:hover {
     color: #fff;
 }
+
+.lead {
+    font-size: 14pt;
+}
